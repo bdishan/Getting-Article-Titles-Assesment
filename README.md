@@ -1,1 +1,1 @@
-# Getting-Article-Titles-Assesment
+# Getting-Article-Titles
